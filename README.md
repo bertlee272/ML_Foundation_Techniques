@@ -1,9 +1,9 @@
 # Machine Learning Foundation & Techniques
 Prof. Hsuan-Tien Lin's ML Courses
 
-[ML Foundation](https://www.csie.ntu.edu.tw/~htlin/course/mlfound19fall/).
+- [ML Foundation](https://www.csie.ntu.edu.tw/~htlin/course/mlfound19fall/).
 
-[ML Techniques](https://www.csie.ntu.edu.tw/~htlin/course/mltech18spring/).
+- [ML Techniques](https://www.csie.ntu.edu.tw/~htlin/course/mltech18spring/).
 
 ### Foundation HW1
 ```
