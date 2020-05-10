@@ -25,6 +25,7 @@ Lecture 8: Noise and Error
 ```
 
 - Programming: Decision Stump
+
 ![alt text](ml_found_hw2.png "Decision Stump")
 
 ### Foundation HW3
